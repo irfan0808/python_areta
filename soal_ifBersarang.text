@@ -1,0 +1,22 @@
+Kendaraan
+
+merk    honda cbr150
+        yamaha r15
+
+kode    lm = lama
+        br = baru
+
+tahun keluar    2016
+                2017
+
+biaya 
+
+honda cbr150 lama 2016 harganya 34.000.000
+honda cbr150 baru 2017 harganya 35.000.000
+
+
+yamaha r15 lama 2016 harganya 33.000.000
+yamaha r15 baru 2017 harganya 34.000.000
+
+input merk motor :
+input kode motor :
