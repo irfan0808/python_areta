@@ -1,0 +1,9 @@
+===halaman login===
+input username =.......
+input password =.......
+
+salah username->masukan username
+salah password->masukan password
+
+jika dari keduanya ada yang salah.
+pesan->username dan password anda salah ,silahkan coba lagi

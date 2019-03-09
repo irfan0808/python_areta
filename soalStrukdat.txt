@@ -1,0 +1,12 @@
+===Data Universitas Areta Informatics College===
+
+Nama Universitas = Areta Informatics College
+Alamat           = Dasana Indah,Kelapa Dua,Kab Tangerang
+Jumlah Jurusan   = 5
+Jumlah Cabang    = 10
+
+===Jurusan=== 
+Jurusan : It, Si, Multimedia, Manajemen, Sastra Inggris
+
+===Cabang===
+Cabang : Aceh,Bandung,Jakarta,Surabaya,Jogjakarta,Bali,Maluku,Padang,Lampung,Jayapura
